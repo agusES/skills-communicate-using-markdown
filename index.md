@@ -10,3 +10,7 @@
 ```typescript
 let user1 = {name: pepito}
 ```
+
+
+- [x] A completed task
+- [ ] Still a todo 
